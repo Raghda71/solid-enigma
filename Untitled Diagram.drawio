@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T16:41:00.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.23" etag="H4uJ88nZuXcmGMHKVzOm" type="github"><diagram name="Page-1" id="d8gvfLNWhYDaOqGOrKg_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-27T16:56:39.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6Bcx-QHUg385qmjqmcZr" version="20.8.23" type="github">
+  <diagram name="Page-1" id="d8gvfLNWhYDaOqGOrKg_">
+    <mxGraphModel dx="1500" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pB29blMJ6GJ9NiMnlPdg-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pB29blMJ6GJ9NiMnlPdg-1" target="pB29blMJ6GJ9NiMnlPdg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pB29blMJ6GJ9NiMnlPdg-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pB29blMJ6GJ9NiMnlPdg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pB29blMJ6GJ9NiMnlPdg-2" target="pB29blMJ6GJ9NiMnlPdg-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pB29blMJ6GJ9NiMnlPdg-2" value="Read NumA, NumB&lt;br&gt;Sum" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="190" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pB29blMJ6GJ9NiMnlPdg-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pB29blMJ6GJ9NiMnlPdg-3" target="pB29blMJ6GJ9NiMnlPdg-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pB29blMJ6GJ9NiMnlPdg-3" value="Set Square1 = NumA × NumA&lt;br&gt;Set Square2 = NumB × NumB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="310" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pB29blMJ6GJ9NiMnlPdg-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pB29blMJ6GJ9NiMnlPdg-6" target="pB29blMJ6GJ9NiMnlPdg-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pB29blMJ6GJ9NiMnlPdg-6" value="Write Sum" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="420" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pB29blMJ6GJ9NiMnlPdg-9" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
